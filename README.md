@@ -1,4 +1,4 @@
-# Whiz — AI-Based Real-Time Attention Monitoring System
+# Whiz - AI-Based Real-Time Attention Monitoring System
 
 Whiz is an AI-driven system designed to detect attention drift and cognitive distraction in real time using only a standard webcam.
 
@@ -10,7 +10,7 @@ The project combines computer vision, behavioral signal processing, and lightwei
 
 This repository contains three main modules:
 
-### 1️⃣ mvp/
+### 1) mvp/
 Core real-time attention detection engine.
 
 - Webcam-based facial landmark tracking
@@ -24,7 +24,7 @@ See `mvp/README.md` for detailed setup instructions.
 
 ---
 
-### 2️⃣ website/
+### 2️) website/
 Product website (Next.js / TypeScript).
 
 - Landing page
@@ -36,7 +36,7 @@ Live deployment: https://whiz-web.vercel.app
 
 ---
 
-### 3️⃣ grafana/
+### 3️) grafana/
 Monitoring and analytics dashboard configuration.
 
 - Attention metrics visualization
@@ -107,3 +107,4 @@ Planned improvements include:
 ## Disclaimer
 
 This system is an experimental prototype built for research, competition, and early-stage startup validation purposes. It is not intended for medical diagnosis or clinical use.
+

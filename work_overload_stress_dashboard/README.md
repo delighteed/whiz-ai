@@ -1,4 +1,4 @@
-# Work Overload & Stress — Global Survey Dashboard
+# Work Overload & Stress - Global Survey Dashboard
 
 Data analysis and visualization project exploring global patterns of work overload and stress using survey data.
 

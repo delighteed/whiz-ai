@@ -1,4 +1,4 @@
-# Whiz MVP — Real-Time Attention & Distraction Detection
+# Whiz MVP - Real-Time Attention & Distraction Detection
 
 Whiz MVP is a computer vision system that detects user attention drift and cognitive distraction in real time using only a standard webcam.
 
@@ -62,3 +62,4 @@ Whiz MVP was developed as a proof-of-concept system to explore real-time, AI-dri
 The goal of this prototype is to demonstrate that cognitive state estimation can be performed locally, without wearable devices or cloud processing, using lightweight computer vision techniques.
 
 This project serves as an early-stage validation of a broader AI-based digital wellbeing and productivity platform.
+
